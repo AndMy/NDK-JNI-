@@ -12,4 +12,6 @@ NDK&amp;JNI开发指南，详细的文档说明从变量到方法
 最后一次更新：2016/6/30/15:35
 
 
+![image](https://github.com/AndMy/NDK-JNI-/blob/master/image/P081%5DFNC8N%604%40H%24OKT4N6%7BS.png)
+
 
